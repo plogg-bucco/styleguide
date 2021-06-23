@@ -1,7 +1,7 @@
 ---
 lang: en-US
 title: Home
-description: Guid home page
+description: Guide home page
 ---
 
 # Code style guide
