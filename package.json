@@ -1,0 +1,29 @@
+{
+  "name": "styleguide",
+  "version": "1.0.0",
+  "description": "Plogg code style guide",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.19"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plogg-bucco/styleguide.git"
+  },
+  "keywords": [
+    "Vuejs",
+    "Nuxtjs",
+    "Vuepress",
+		"Javascript",
+		"Typescript",
+		"Nestjs"
+  ],
+  "author": "Plogg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plogg-bucco/styleguide/issues"
+  },
+  "homepage": "https://github.com/plogg-bucco/styleguide#readme"
+}
