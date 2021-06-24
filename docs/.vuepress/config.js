@@ -5,6 +5,6 @@ module.exports = {
   description: "Bucco code style guide",
 
   themeConfig: {
-    logo: "https://vuejs.org/images/logo.png"
+    sidebar: ["/"]
   }
 };
