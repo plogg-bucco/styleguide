@@ -1,0 +1,18 @@
+// Color palette hand picked from https://colorhunt.co/palette/05374239a2dba2dbfae8f0f2
+
+:root {
+  // brand colors
+  --c-brand: #39a2db;
+  --c-brand-light: #a2dbfa;
+}
+
+html.dark {
+  // brand colors
+  --c-brand: #39a2db;
+  --c-brand-light: #a2dbfa;
+
+  // background colors
+  --c-bg: #22272e;
+  --c-bg-light: #2b313a;
+  --c-bg-lighter: #262c34;
+}
