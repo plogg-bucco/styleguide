@@ -5,6 +5,11 @@ module.exports = {
   description: "Bucco code style guide",
 
   themeConfig: {
-    sidebar: ["/"]
+    smoothScroll: true,
+    navbar: [
+      { text: "Home", link: "/" },
+      { text: "Guide", link: "/guide/" },
+      { text: "GitHub", link: "https://github.com/plogg-bucco/styleguide", rel: false }
+    ]
   }
 };
