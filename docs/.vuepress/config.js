@@ -1,7 +1,7 @@
 module.exports = {
   base: "/styleguide/",
   lang: "en-US",
-  title: "Code Style",
+  title: "Plogg Media",
   description: "Bucco code style guide",
 
   themeConfig: {
