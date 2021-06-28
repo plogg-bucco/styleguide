@@ -1,10 +1,15 @@
 module.exports = {
   base: "/styleguide/",
   lang: "en-US",
-  title: "Code Style",
+  title: "Plogg Media",
   description: "Bucco code style guide",
 
   themeConfig: {
-    logo: "https://vuejs.org/images/logo.png"
+    smoothScroll: true,
+    navbar: [
+      { text: "Home", link: "/" },
+      { text: "Guide", link: "/guide/" },
+      { text: "GitHub", link: "https://github.com/plogg-bucco/styleguide", rel: false }
+    ]
   }
 };
